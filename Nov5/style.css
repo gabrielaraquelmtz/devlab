@@ -1,0 +1,37 @@
+.jumbotron {
+    margin: 20px;
+  }
+  
+  .row {
+    margin-bottom: 10px;
+  }
+
+  .row2 {
+      margin-bottom: 10px;
+  }
+  
+  .my-header {
+    background-color: #ccc;
+    text-align: center;
+  }
+  
+  .myCol-green {
+    background-color: green;
+    height: 200px;
+  }
+  
+  .myCol-yellow {
+    background-color: darkgoldenrod;
+  }
+
+  .myCol-red {
+      background-color: darkred;
+  }
+
+  .myCol-purple{ 
+      background-color: rebeccapurple;
+  }
+
+.myCol-pink {
+    background-color: pink;
+}
